@@ -1,0 +1,16 @@
+{
+  "name": "bank-interest-concept",
+  "version": "1.0.0",
+  "description": "A man wants to know how much money is generated from interest on the amount he has in investment in the bank. He will decide to reinvest the interest as long as it exceeds $ 7000, and in that case he wants to know how much money he will finally have in his account.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/bank-interest-concept"
+  },
+ 
+  "keywords": ["js","javascript","calculation","bank","interest","concept","investement"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
