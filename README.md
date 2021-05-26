@@ -2,7 +2,7 @@
 
 ## Description
 
-A man wants to know how much money is generated from interest on the amount he has in investment in the bank. He will decide to reinvest the interest as long as it exceeds $ 7000, and in that case he wants to know how much money he will finally have in his account.
+A man wants to know how much money is generated from interest on the amount he has in investment in the bank. He will decide to reinvest the interest as long as it exceeds USD 351, and in that case he wants to know how much money he will finally have in his account.
 
 ## Usage
 
